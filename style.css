@@ -1,3 +1,13 @@
 body{
     background-color: black;
 }
+h1{
+    color: orange;
+    border-radius: 10px;
+    border: solid white 3px;
+}
+
+header{
+    display:flex;
+    justify-content: center;
+}
