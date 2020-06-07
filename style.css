@@ -2,9 +2,10 @@ body{
     background-color: black;
 }
 h1{
-    color: orange;
+    color: white;
     border-radius: 10px;
-    border: solid white 3px;
+    border: solid orange 3px;
+    padding: 0 10px 0 10px;
 }
 
 header{
